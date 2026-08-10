@@ -6,7 +6,7 @@
   "author": "Imre Boersma <imre.boersma@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/google-apps-script": "^2.0.11",
+    "@types/google-apps-script": "^2.0.12",
     "@types/jest": "^30.0.0",
     "jest": "^30.4.2",
     "ts-jest": "^29.4.12"
