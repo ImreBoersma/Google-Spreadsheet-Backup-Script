@@ -9,7 +9,7 @@
     "@types/google-apps-script": "^2.0.13",
     "@types/jest": "^30.0.0",
     "jest": "^30.5.1",
-    "ts-jest": "^29.4.12"
+    "ts-jest": "^29.4.13"
   },
   "scripts": {
     "test": "jest"
